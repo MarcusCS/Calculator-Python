@@ -1,8 +1,3 @@
-# CODE IS FROM https://www.digitalocean.com/community/tutorials/how-to-make-a-simple-calculator-program-in-python-3
-# LICENSED Attribution-NonCommercial-ShareAlike
-# 4.0 International (CC BY NC-SA 4.0)
-# CODE IS NOT OWNED BY ME
-# Improved certain sections and added various other functions
 import math
 def mode():
     mode = True
